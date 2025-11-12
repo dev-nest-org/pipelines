@@ -1,7 +1,0 @@
-k8s-jenkins
-vars
-
-.git
-.gitignore
-node_modules
-npm-debug.log
